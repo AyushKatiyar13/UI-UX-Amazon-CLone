@@ -1,1 +1,1 @@
-# UI-UX-Amazon-CLone
+# UI-UX-Amazon-CLone.
